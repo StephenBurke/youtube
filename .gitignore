@@ -1,3 +1,9 @@
 youtubeKey.py
 .ipynb_checkpoints/
 __pycache__/
+bin/
+etc/
+lib/
+lib64
+pyvenv.cfg
+share/
